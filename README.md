@@ -9,7 +9,7 @@ Click on the HTML Document
 
 Click Add Node
 
-The Header line at the top is now editable. Enter what you wish to call this access page
+Both Header lines at the top are now editable. Enter what you want to call this access page.
 
 In the top entry line, enter you node number
 
