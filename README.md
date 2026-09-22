@@ -1,5 +1,5 @@
 # Quick-Node-Hotspot-Dashboard
-Download the Quick Node Hotspot Dashboard
+Download the Quick Node Hotspot Dashboard html files
 Save it to your computer in the directory of your choosing. 
 Click the file and open it.
 Click Add Node
