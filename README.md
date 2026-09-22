@@ -1,4 +1,4 @@
-# Quick-Node-Hotspot-Dashboard
+# Quick-Access-Dashboard
 Download the Quick Node Dashboard zip file to your computer.
 Make sure you know what directory you save it to. 
 Click the file and unzip it.
