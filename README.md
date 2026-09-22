@@ -1,7 +1,8 @@
 # Quick-Node-Hotspot-Dashboard
-Download the Quick Node Hotspot Dashboard html file as a raw file
-Save it to your computer in the directory of your choosing. 
-Click the file and open it.
+Download the Quick Node Dashboard zip file to your computer.
+Make sure you know what directory you save it to. 
+Click the file and unzip it.
+Click on the HTML Document
 Click Add Node
 In the top entry line, enter you node number
 In the Name Field, Name it what you want it to show on the dashboard
