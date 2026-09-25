@@ -1,4 +1,6 @@
 # Quick-Access-Dashboard
+NOTE The Quick Access Dashboard has been tested on Windows, iMac and Linux Computers 
+
 Download the Quick Node Dashboard zip file to your computer.
 
 Make sure you know what directory you save it to. 
